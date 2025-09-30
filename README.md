@@ -4,7 +4,7 @@ A decentralized real estate platform built with React, Vite, and Web3 technologi
 
 ![alt text](public/photo-1499793983690-e29da59ef1c2.avif)
 ![alt text](public/photo-1486406146926-c627a92ad1ab.avif)
-![alt text](photo-1560518883-ce09059eeffa.avif)
+![alt text](public/photo-1560518883-ce09059eeffa.avif)
 
 ## Features
 
